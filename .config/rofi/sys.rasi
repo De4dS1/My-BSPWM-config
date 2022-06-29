@@ -1,0 +1,16 @@
+window {
+	width: 12%;
+	location: center;
+	transparency: "real";
+	padding: 5px;
+	background-color: @transparent;
+	children: [mainbox];
+}
+
+mainbox {
+	children: [listview];
+}
+
+listview {
+	lines:3;
+}
