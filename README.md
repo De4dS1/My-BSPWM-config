@@ -9,7 +9,7 @@
 - feh
 - rofi
 - alacritty
-- nerd-fonts-complete (yay)
+- nerd-fonts-complete (AUR)
 - numlockx
 - sddm
 - pulseaudio
