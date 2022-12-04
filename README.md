@@ -2,7 +2,7 @@
 
 ## DEPENDENCIAS
 
-- picom
+- picom-git (AUR)
 - bspwm
 - sxhkd
 - polybar
@@ -10,6 +10,5 @@
 - rofi
 - alacritty
 - nerd-fonts-complete (AUR)
-- numlockx
 - sddm
 - pulseaudio
